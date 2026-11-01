@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://korobova-cfo.ru/</loc>
+    <lastmod>2026-11-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://korobova-cfo.ru/1.jpg</image:loc>
+      <image:title>Екатерина Егоровна Коробова - независимый финансовый директор и корпоративный аудитор</image:title>
+      <image:caption>Независимый финансовый директор (Interim CFO) и аудитор Екатерина Коробова для бизнеса с оборотом 3 - 30 млрд рублей</image:caption>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,12 @@
+User-agent: Yandex
+Allow: /
+Clean-param: utm_source&utm_medium&utm_campaign&utm_content&utm_term&yclid&gclid&from&ref /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: *
+Allow: /
+
+Host: https://korobova-cfo.ru
+Sitemap: https://korobova-cfo.ru/sitemap.xml
